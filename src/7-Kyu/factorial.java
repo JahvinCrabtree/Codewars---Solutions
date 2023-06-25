@@ -1,5 +1,3 @@
-package 7-Kyu;
-
 public class factorial {
     public int factorial(int n) {
     
