@@ -1,5 +1,3 @@
-package 7-Kyu;
-
 public class sumOfNmbers {
     public int GetSum(int a, int b)
     {
