@@ -18,7 +18,7 @@ class Solution {
 
             char temp = word[left];
             word[left] = word[right];
-            word[right] = temp;
+            word[right] = temp; 
 
             left++;
             right--;
